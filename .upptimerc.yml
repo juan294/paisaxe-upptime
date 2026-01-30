@@ -3,12 +3,12 @@ repo: paisaxe-upptime
 
 sites:
   - name: Paisaxe (Main Site)
-    url: https://paisaxe.com
+    url: https://paisaxe.es
     method: GET
     expectedStatusCode: 200
 
   - name: Paisaxe API Health
-    url: https://paisaxe.com/api/health
+    url: https://paisaxe.es/api/health
     method: GET
     expectedStatusCode: 200
 
@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/juan294/paisaxe-upptime/master/.github/logo.svg
   name: Paisaxe Status
   introTitle: "**Paisaxe** status and uptime monitoring."
-  introMessage: This status page tracks the availability of [Paisaxe](https://paisaxe.com), an immersive tourism experience for Asturias, Spain.
+  introMessage: This status page tracks the availability of [Paisaxe](https://paisaxe.es), an immersive tourism experience for Asturias, Spain.
   navbar:
     - title: Status
       href: /
