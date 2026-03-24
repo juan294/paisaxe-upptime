@@ -1,7 +1,7 @@
 url: https://paisaxe.es/api/health
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2026-03-23T23:27:05.045Z
+status: down
+code: 503
+responseTime: 457
+lastUpdated: 2026-03-24T20:05:18.423Z
 startTime: 2026-01-27T11:16:47.663Z
 generator: Upptime <https://github.com/upptime/upptime>
